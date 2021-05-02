@@ -3,7 +3,7 @@
 
 Python virtual environment, google cloud vision/storage api
 
-[Figma link](https://www.figma.com/file/F65yx46n20XVJP4hzfL5Ls/App?node-id=0%3A1)
+[Figma link](https://www.figma.com/proto/F65yx46n20XVJP4hzfL5Ls/App?node-id=2%3A158&scaling=min-zoom&page-id=0%3A1)
 
 ### Inspiration 💡
 Add some text here
