@@ -50,8 +50,8 @@ Another challenge was learning to use Google Cloud Vision API but thankfully, th
 2. Creating a prototype of an App that can help students, similar to us, struggling with online university. 
 
 ### What we learned 📖
-Start early and have a solid idea!
+Start early and have a solid idea! We learned about API development and Google cloud storage. Implementing a REST API was a new learning curve for both team members. We learned the basics of different call requests as well as the differences between GET and POST.
 
 ### What's next for Flash-Focus! 🚀
-The next big thing for Flash-Focus is.... The possibilities for Flash-Focus are endless!
+The next big thing for Flash Focus is its endless usages in all different types of environments(Math, science, history, geography). All disciplines can benefit from this application saving time and resources. The possibilities for Flash-Focus are endless!
 
