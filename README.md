@@ -2,7 +2,7 @@
 ## Flash-Focus
 An app that helps students study efficiently, using active recall. It generates automatic flashcards given an image, document etc.
 Not only will this save students' time, it will boost their grades.
-Learn more with our [Demo Video]()
+Learn more with our [Demo Video](https://youtu.be/-lRPSlRt_NI)
 You can also check out the prototype: [Figma](https://www.figma.com/proto/F65yx46n20XVJP4hzfL5Ls/App?node-id=2%3A158&scaling=min-zoom&page-id=0%3A1)
 
 ### Inspiration 💡
