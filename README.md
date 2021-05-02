@@ -16,7 +16,7 @@ An app that takes your notes, your readings, websites, articles etc. and automat
 The flashcards are organized to help you consistently review them using a psycologically proven study technique called active recall.
 More specifically, it uses space repetition. Plus, the tedious job of creating flashcards manually is eliminated.
 
-### Sneak Peak
+### Sneak Peak 👀
 <p float="left">
   <img src="pic1.png" alt="" width="200" />
 </p>
