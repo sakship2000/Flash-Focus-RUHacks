@@ -31,14 +31,14 @@ More specifically, it uses space repetition. Plus, the tedious job of creating f
 
 
 ### How we built it 🛠️
-Google Cloud vision API
-Google Cloud Storage 
-Python
-JavaScript
-HTML
-Rapid API Question Generator
-Flexudy
-Figma
+- Google Cloud vision API
+- Google Cloud Storage 
+- Python
+- JavaScript
+- HTML
+- Rapid API Question Generator
+- Flexudy
+- Figma
 
 ### Challenges we ran into 🚧
 Implementing the question generation was tough! We first wated to use Quillionz but were not able to get access to it.
