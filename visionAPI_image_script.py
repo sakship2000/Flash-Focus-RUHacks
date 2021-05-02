@@ -3,7 +3,6 @@ import io
 from google.cloud import vision_v1
 from google.cloud.vision_v1 import types
 
-# "python.pythonPath": "/Users/sakshi/desktop/visionAPI/bin" for settings.json
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = r'vision-token.json'
 
 client = vision_v1.ImageAnnotatorClient()
@@ -27,6 +26,8 @@ f.close()
 f = open("output_file.txt", "r")
 print(f.read())
 
+# Following code is optional
+# Prints confidence per letter
 # pages = response.full_text_annotation.pages #for page in pages:
 #    for block in page.blocks:
 #        print('block confidence:', block.confidence)
