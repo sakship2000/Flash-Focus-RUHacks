@@ -16,12 +16,29 @@ An app that takes your notes, your readings, websites, articles etc. and automat
 The flashcards are organized to help you consistently review them using a psycologically proven study technique called active recall.
 More specifically, it uses space repetition. Plus, the tedious job of creating flashcards manually is eliminated.
 
+### Sneak Peak
+<p float="left">
+  <img src="pic1.png" alt="" width="200" />
+</p>
+
+<p float="left">
+  <img src="pic2.png" alt="" width="200" />
+</p>
+
+<p float="left">
+  <img src="pic3.png" alt="" width="200" />
+</p>  
+
+
 ### How we built it 🛠️
 Google Cloud vision API
 Google Cloud Storage 
 Python
+JavaScript
+HTML
 Rapid API Question Generator
 Flexudy
+Figma
 
 ### Challenges we ran into 🚧
 Implementing the question generation was tough! We first wated to use Quillionz but were not able to get access to it.
